@@ -1,10 +1,11 @@
-body
-{
-    background-color: white;
+body{
+    background-color: lightskyblue;
 }
-.button
-{ height:fit-content;
-background: lightblue;
-    border: lightblue;
-    margin: 0px 0px 0px 0px;
+
+.au{
+    background-color: rgb(201, 131, 131);
+    align-content:flex-end;
+}
+.register{
+    background-color: rgb(201, 131, 131);
 }
