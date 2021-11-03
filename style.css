@@ -1,0 +1,10 @@
+body
+{
+    background-color: white;
+}
+.button
+{ height:fit-content;
+background: lightblue;
+    border: lightblue;
+    margin: 0px 0px 0px 0px;
+}
