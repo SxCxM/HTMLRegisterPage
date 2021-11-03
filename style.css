@@ -4,8 +4,19 @@ body{
 
 .au{
     background-color: rgb(201, 131, 131);
-    align-content:flex-end;
 }
 .register{
     background-color: rgb(201, 131, 131);
+    
+}
+
+.signup{
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+    padding-top: 3%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 30%;
 }
